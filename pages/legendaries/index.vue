@@ -87,7 +87,7 @@ export default {
   },
   head () {
     return {
-      title: 'Votr'
+      title: 'Votr | Legendaries'
     }
   }
 }

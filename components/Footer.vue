@@ -1,5 +1,5 @@
 <template>
   <footer>
-    Visit our website for more documentation : <a href="https://nuxtjs.org" target="_blank">nuxtjs.org</a>
+    Votr Wiki by <a href="http://arcanuo.me">Arcanuo</a>
   </footer>
 </template>

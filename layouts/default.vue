@@ -16,37 +16,35 @@ export default {
 </script>
 
 <style>
-.container
-{
-  margin: 0;
-  width: 100%;
-  padding: 100px 0;
-  text-align: center;
+html,body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  background: #F0F2F4;
 }
-
-.button, .button:visited
-{
-  display: inline-block;
-  color: black;
-  letter-spacing: 1px;
-  background-color: #fff;
-  border: 2px solid #000;
-  text-decoration: none;
-  text-transform: uppercase;
-  padding: 15px 45px;
+.navbar.is-white {
+  background: #F0F2F4;
 }
-
-.button:hover, .button:focus
-{
-  color: #fff;
-  background-color: #000;
+.navbar-brand .brand-text {
+  font-size: 1.11rem;
+  font-weight: bold;
 }
-
-.title
-{
-  color: #000;
-  font-weight: 300;
-  font-size: 2.5em;
-  margin: 0;
+.articles {
+  margin: 5rem 0;
+}
+.article-title {
+  font-size: 2rem;
+  font-weight: lighter;
+  line-height: 2;
+}
+.article-subtitle {
+  color: #909AA0;
+  margin-bottom: 3rem;
+}
+.article-body {
+  line-height: 1.4;
+  margin: 0 6rem;
+}
+.promo-block .container {
+  margin: 1rem 5rem;
 }
 </style>
