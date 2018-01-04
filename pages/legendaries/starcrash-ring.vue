@@ -44,7 +44,7 @@
             <div class="card-content">
              
             <div class="content article-body">
-                <img src="https://imgur.com/dUjZGPm" class="image is-128x128" alt="starcrash ring">
+                <img src="https://i.imgur.com/dUjZGPm.png" class="image is-128x128" alt="starcrash ring">
                 <h3>Stats.</h3>
                 <p>
                     <li>+200 MP</li>
@@ -52,6 +52,16 @@
                     <li>+10 WISDOM</li>
                     <li>+10 VITALITY</li>
                 </p>
+                <h3> How to obtain.</h3>
+                <p>
+                    <li>This accessory is forged with the Shard of Cosmic Collapse.</li>
+                </p>
+                <h3>Usage.</h3>
+                <p>
+                    <li class="is-center">Can be used efficiently with classes such as Wizard, Sorcerer etc. in which you can spam its ability.</li>
+                </p>   
+                        
+                
               </div>
             </div>
           </div>
