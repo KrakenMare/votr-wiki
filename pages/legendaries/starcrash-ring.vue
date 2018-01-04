@@ -51,6 +51,7 @@
                     <li>+18 RESTORATION</li>
                     <li>+10 WISDOM</li>
                     <li>+10 VITALITY</li>
+                    <li>Fame Bonus: 8%</li>
                 </p>
                 <h3> How to obtain.</h3>
                 <p>
