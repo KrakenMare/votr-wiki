@@ -52,6 +52,7 @@
                     <li>+30 PROTECTION</li>
                     <li>+12 DEFENSE</li>
                     <li>+40 LUCK</li>
+                    <li>Fame Bonus:8%</li>
                 </p>
                 <h3>How to obtain.</h3>
                 <p>
