@@ -57,7 +57,7 @@
                 <p>
                     <li>This accessory is forged with the Shard of Cosmic Collapse</li>
                 </p>
-                <h3>Usage.<h3>
+                <h3>Usage.</h3>
                 <p>
                     <li class="is-center">The passive of the ring goes well in combination with other items that boost your protection stat, as it is easier to get</li>
                     <li class="is-center">full surge and fill up your protection bar</li>

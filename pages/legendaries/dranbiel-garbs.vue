@@ -58,7 +58,7 @@
                 <p>
                     <li>This robe is forged with the Shard of Cosmic Collapse</li>
                 </p>
-                <h3>Usage.<h3>
+                <h3>Usage.</h3>
                 <p>
                     <li>The passive of this robe combines well with t0 abilities, or any ability with a low mana cost</li>
                 </p>
