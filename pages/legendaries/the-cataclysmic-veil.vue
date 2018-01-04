@@ -44,7 +44,7 @@
             <div class="card-content">
              
             <div class="content article-body">
-                <img src="https://imgur.com/a/7ZI1t.png" class="image is-128x128" alt="the cataclysmic veil">
+                <img src="https://i.imgur.com/6ycSN6O.png" class="image is-128x128" alt="the cataclysmic veil">
                 <h3>Stats.</h3>
                 <p>
                     <li>Effect on Self: Invisible for 8 seconds</li>
