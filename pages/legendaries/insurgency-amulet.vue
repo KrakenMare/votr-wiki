@@ -48,9 +48,18 @@
                 <h3>Stats.</h3>
                 <p>
                     <li>+200 HP</li>
-                    <li>+20 PROT</li>
-                    <li>+8 SPD</li>
-                    <li>+8 DEX</li>
+                    <li>+20 Protection</li>
+                    <li>+8 Speed</li>
+                    <li>+8 Dexterity</li>
+                </p>
+                <h3>How to obtain.</h3>
+                <p>
+                    <li>This ring is forged with the Shard of Cosmic Collapse</li>
+                </p>
+                <h3>Usage.<h3>
+                <p>
+                    <li>The passive of the ring goes well in combination with other items that boost your protection stat, as it is easier to get</li>
+                    <li>full surge and fill up your protection bar</li>
                 </p>
               </div>
             </div>
