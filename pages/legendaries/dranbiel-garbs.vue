@@ -47,7 +47,11 @@
                 <img src="https://i.imgur.com/Y5bM2zo.png" class="image is-128x128" alt="dranbiel garbs">
                 <h3>Stats.</h3>
                 <p>
-                    <li>+20 HP</li>
+                    <li>+40 MP</li>
+                    <li>+180 HP</li>
+                    <li>+30 PROT</li>
+                    <li>+12 DEF</li>
+                    <li>+40 LUCK</li>
                 </p>
               </div>
             </div>
