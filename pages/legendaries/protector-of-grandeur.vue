@@ -59,11 +59,10 @@
                     <li>+12 DEXTERITY</li>
                     <li>MP Cost: 110</li>
                     <li>Fame Bonus: 8%</li>
-                  
                 </p>
                 <h3>How to obtain.</h3>
                 <p>
-                    <li>This accessory is forged with the Shard of Cosmic Collapse</li>
+                    <li>This shield is forged with the Shard of Cosmic Collapse</li>
                 </p>
               </div>
             </div>
