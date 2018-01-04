@@ -48,9 +48,9 @@
                 <h3>Stats.</h3>
                 <p>
                     <li>+200 HP</li>
-                    <li>+20 Protection</li>
-                    <li>+8 Speed</li>
-                    <li>+8 Dexterity</li>
+                    <li>+20 PROTECTION</li>
+                    <li>+8 SPEED</li>
+                    <li>+8 DEXTERITY</li>
                 </p>
                 <h3>How to obtain.</h3>
                 <p>
