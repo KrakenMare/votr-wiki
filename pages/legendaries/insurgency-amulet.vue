@@ -51,7 +51,7 @@
                     <li>+20 PROTECTION</li>
                     <li>+8 SPEED</li>
                     <li>+8 DEXTERITY</li>
-                    <li>Fame Bonus:8%</li>
+                    <li>Fame Bonus: 8%</li>
                 </p>
                 <h3>How to obtain.</h3>
                 <p>
