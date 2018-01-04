@@ -42,15 +42,58 @@
               </div>
             </div>
           </article>
-          
-        </div>
       </div>
 
+        <div class="box content">
+          <article class="post">
+            <h4>Legendary Dranbiel-Garbs</h4>
+            <span class="pull-right has-text-grey-light"><i class="fa fa-comments"></i> 1</span>
+            <div class="media">
+              <div class="media-left">
+                <p class="image is-32x32">
+                  <img src="http://bulma.io/images/placeholders/128x128.png">
+                </p>
+              </div>
+              <div class="media-content">
+                <div class="content">
+                  <p>
+                    <nuxt-link to="/dranbiel-garbs" class="navbar-item">Dranbiel Garbs</nuxt-link>
+ 
+                    <span class="tag">Page</span>
+                  </p>
+                </div>
+              </div>
+            </div>
+          </article>
+      </div>
 
+        <div class="box content">
+          <article class="post">
+            <h4>Legendary Cloud Edge</h4>
+            <span class="pull-right has-text-grey-light"><i class="fa fa-comments"></i> 1</span>
+            <div class="media">
+              <div class="media-left">
+                <p class="image is-32x32">
+                  <img src="http://bulma.io/images/placeholders/128x128.png">
+                </p>
+              </div>
+              <div class="media-content">
+                <div class="content">
+                  <p>
+                    <nuxt-link to="/cloud-edge" class="navbar-item">Cloud Edge</nuxt-link>
+ 
+                    <span class="tag">Page</span>
+                  </p>
+                </div>
+              </div>
+            </div>
+          </article>
+      </div>
+<!-- COPY ABOVE & CHANGE -->
 </div>
     <!-- END NAV -->
       
-
+      </div>
 </template>
 
 <script>
