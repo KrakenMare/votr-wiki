@@ -49,9 +49,17 @@
                 <p>
                     <li>+40 MP</li>
                     <li>+180 HP</li>
-                    <li>+30 PROT</li>
-                    <li>+12 DEF</li>
-                    <li>+40 LUCK</li>
+                    <li>+30 Protection</li>
+                    <li>+12 Defense</li>
+                    <li>+40 Luck</li>
+                </p>
+                <h3>How to obtain.</h3>
+                <p>
+                    <li>This robe is forged with the Shard of Cosmic Collapse</li>
+                </p>
+                <h3>Usage.<h3>
+                <p>
+                    <li>The passive of this robe combines well with t0 abilities, or any ability with a low mana cost</li>
                 </p>
               </div>
             </div>
