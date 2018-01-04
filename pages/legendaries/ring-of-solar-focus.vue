@@ -31,10 +31,10 @@
               <div class="container">
                 <h1 class="title">
                   <i class="fa fa-bell-o"></i> 
-                   Furious Gauntlet
+                   Ring of Solar Focus
                 </h1>
                 <h2 class="subtitle">
-                  No fear shall be shown.
+                  A ring infused with the energy of the sun.
                 </h2>
               </div>
             </div>
@@ -44,24 +44,20 @@
             <div class="card-content">
              
             <div class="content article-body">
-                <img src="https://i.imgur.com/oUQeiOo.png" class="image is-128x128" alt="furious gauntlet">
+                <img src="https://i.imgur.com/s0f33ph.png" class="image is-128x128" alt="undead nemesis">
                 <h3>Stats.</h3>
                 <p>
+                    <li>+120 HP</li>
+                    <li>+25% MP</li>
+                    <li>+10 VITALITY</li>
+                    <li>+10 ATTACK</li>
                     <li>+20 RESTORATION</li>
-                    <li>+18 DEFENSE</li>
-                    <li>+25 VITALITY</li>
-                    <li>+10 SPEED</li>
-                    <li>+10 DEXTERITY</li>
                     <li>Fame Bonus: 8%</li>
                 </p>
                 <h3>How to obtain.</h3>
                 <p>
-                    <li> This accessory is forged with the Shard of Cosmic Collapse.</li>
-                </p>    
-                <h3>Usage.</h3>
-                <p> 
-                    <li class="is-center"> The passive of this ring can be used effeciently to weaken strong mobs, making them easier to defeat. </li>
-                </p>    
+                    <li>This accessory is forged with the Shard of Eternal Fury.</li>
+                </p>
               </div>
             </div>
           </div>
