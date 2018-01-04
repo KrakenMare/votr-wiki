@@ -58,8 +58,8 @@
                 </p>
                 <h3>Usage.<h3>
                 <p>
-                    <li>The passive of the ring goes well in combination with other items that boost your protection stat, as it is easier to get</li>
-                    <li>full surge and fill up your protection bar</li>
+                    <li class="is-center">The passive of the ring goes well in combination with other items that boost your protection stat, as it is easier to get</li>
+                    <li class="is-center">full surge and fill up your protection bar</li>
                 </p>
               </div>
             </div>
