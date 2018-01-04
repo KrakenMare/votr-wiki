@@ -49,9 +49,9 @@
                 <p>
                     <li>+40 MP</li>
                     <li>+180 HP</li>
-                    <li>+30 Protection</li>
-                    <li>+12 Defense</li>
-                    <li>+40 Luck</li>
+                    <li>+30 PROTECTION</li>
+                    <li>+12 DEFENSE</li>
+                    <li>+40 LUCK</li>
                 </p>
                 <h3>How to obtain.</h3>
                 <p>
