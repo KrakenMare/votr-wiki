@@ -60,7 +60,7 @@
                 </p>    
                 <h3>Usage.</h3>
                 <p> 
-                    <li class="is center"> The passive of this ring can be used effeciently to weaken strong mobs, making them easier to defeat. </li>
+                    <li class="is-center"> The passive of this ring can be used effeciently to weaken strong mobs, making them easier to defeat. </li>
                 </p>    
               </div>
             </div>
