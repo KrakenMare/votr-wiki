@@ -47,14 +47,14 @@
                 <img src="https://i.imgur.com/9uNdPd1.png" class="image is-128x128" alt="cloud edge">
                 <h3>Stats.</h3>
                 <p>
-                    <li>Damage:166-278</li>
-                    <li>Range:7.7</li>
+                    <li>Damage: 166-278</li>
+                    <li>Range: 7.7</li>
                     <li>Shots hit multiple targets</li>
-                    <li>Rate of Fire:+60%</li>
+                    <li>Rate of Fire: +60%</li>
                     <li>+80 HP</li>
                     <li>+10 SPEED</li>
                     <li>+4 DEFENSE</li>
-                    <li>Fame Bonus:8%</li>
+                    <li>Fame Bonus: 8%</li>
                 </p>
                 <h3>How to obtain.</h3>
                 <p>
