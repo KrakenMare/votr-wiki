@@ -54,7 +54,7 @@
                 </p>
                 <h3>How to obtain.</h3>
                 <p>
-                    <li>This ring is forged with the Shard of Cosmic Collapse</li>
+                    <li>This accessory is forged with the Shard of Cosmic Collapse</li>
                 </p>
                 <h3>Usage.<h3>
                 <p>
