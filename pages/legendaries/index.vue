@@ -366,29 +366,6 @@
           </article>
       </div>
       
-                          <div class="box content">
-          <article class="post">
-            <h4>Legendary The Cataclysmic Veil</h4>
-            <span class="pull-right has-text-grey-light"><i class="fa fa-comments"></i> 1</span>
-            <div class="media">
-              <div class="media-left">
-                <p class="image is-32x32">
-                  <img src="http://bulma.io/images/placeholders/128x128.png">
-                </p>
-              </div>
-              <div class="media-content">
-                <div class="content">
-                  <p>
-                    <nuxt-link to="/legendaries/the-cataclysmic-veil" class="navbar-item">The Cataclysmic Veil</nuxt-link>
- 
-                    <span class="tag">Page</span>
-                  </p>
-                </div>
-              </div>
-            </div>
-          </article>
-      </div>
-      
                     <div class="box content">
           <article class="post">
             <h4>Legendary Burden of the Warpawn</h4>
@@ -402,7 +379,7 @@
               <div class="media-content">
                 <div class="content">
                   <p>
-                    <nuxt-link to="/legendaries/burden-of-the-warpawn.vue" class="navbar-item">Burden of the Warpawn</nuxt-link>
+                    <nuxt-link to="/legendaries/burden-of-the-warpawn" class="navbar-item">Burden of the Warpawn</nuxt-link>
  
                     <span class="tag">Page</span>
                   </p>
@@ -425,7 +402,7 @@
               <div class="media-content">
                 <div class="content">
                   <p>
-                    <nuxt-link to="/legendaries/gargoyle-stoneplate.vue" class="navbar-item">Gargoyle Stoneplate</nuxt-link>
+                    <nuxt-link to="/legendaries/gargoyle-stoneplate" class="navbar-item">Gargoyle Stoneplate</nuxt-link>
  
                     <span class="tag">Page</span>
                   </p>
@@ -448,7 +425,7 @@
               <div class="media-content">
                 <div class="content">
                   <p>
-                    <nuxt-link to="/legendaries/the-odyssey.vue" class="navbar-item">The Odyssey</nuxt-link>
+                    <nuxt-link to="/legendaries/the-odyssey" class="navbar-item">The Odyssey</nuxt-link>
  
                     <span class="tag">Page</span>
                   </p>
@@ -471,7 +448,7 @@
               <div class="media-content">
                 <div class="content">
                   <p>
-                    <nuxt-link to="/legendaries/the-executioner.vue" class="navbar-item">The Executioner</nuxt-link>
+                    <nuxt-link to="/legendaries/the-executioner" class="navbar-item">The Executioner</nuxt-link>
  
                     <span class="tag">Page</span>
                   </p>
@@ -494,7 +471,7 @@
               <div class="media-content">
                 <div class="content">
                   <p>
-                    <nuxt-link to="/legendaries/gargoyle-slayer.vue" class="navbar-item">Gargoyle Slayer</nuxt-link>
+                    <nuxt-link to="/legendaries/gargoyle-slayer" class="navbar-item">Gargoyle Slayer</nuxt-link>
  
                     <span class="tag">Page</span>
                   </p>
@@ -517,7 +494,30 @@
               <div class="media-content">
                 <div class="content">
                   <p>
-                    <nuxt-link to="/legendaries/gargoyle-crusher.vue" class="navbar-item">Gargoyle Crusher</nuxt-link>
+                    <nuxt-link to="/legendaries/gargoyle-crusher" class="navbar-item">Gargoyle Crusher</nuxt-link>
+ 
+                    <span class="tag">Page</span>
+                  </p>
+                </div>
+              </div>
+            </div>
+          </article>
+      </div>
+      
+                          <div class="box content">
+          <article class="post">
+            <h4>Legendary Bracelet of the Demolished</h4>
+            <span class="pull-right has-text-grey-light"><i class="fa fa-comments"></i> 1</span>
+            <div class="media">
+              <div class="media-left">
+                <p class="image is-32x32">
+                  <img src="http://bulma.io/images/placeholders/128x128.png">
+                </p>
+              </div>
+              <div class="media-content">
+                <div class="content">
+                  <p>
+                    <nuxt-link to="/legendaries/bracelet-of-the-demolished" class="navbar-item">Bracelet of the Demolished</nuxt-link>
  
                     <span class="tag">Page</span>
                   </p>
