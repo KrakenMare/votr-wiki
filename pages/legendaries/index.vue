@@ -57,7 +57,7 @@
               <div class="media-content">
                 <div class="content">
                   <p>
-                    <nuxt-link to="/dranbiel-garbs" class="navbar-item">Dranbiel Garbs</nuxt-link>
+                    <nuxt-link to="/legendaries/dranbiel-garbs" class="navbar-item">Dranbiel Garbs</nuxt-link>
  
                     <span class="tag">Page</span>
                   </p>
@@ -80,7 +80,283 @@
               <div class="media-content">
                 <div class="content">
                   <p>
-                    <nuxt-link to="/cloud-edge" class="navbar-item">Cloud Edge</nuxt-link>
+                    <nuxt-link to="/legendaries/cloud-edge" class="navbar-item">Cloud Edge</nuxt-link>
+ 
+                    <span class="tag">Page</span>
+                  </p>
+                </div>
+              </div>
+            </div>
+          </article>
+      </div>
+      
+              <div class="box content">
+          <article class="post">
+            <h4>Legendary Scepter of the Other</h4>
+            <span class="pull-right has-text-grey-light"><i class="fa fa-comments"></i> 1</span>
+            <div class="media">
+              <div class="media-left">
+                <p class="image is-32x32">
+                  <img src="http://bulma.io/images/placeholders/128x128.png">
+                </p>
+              </div>
+              <div class="media-content">
+                <div class="content">
+                  <p>
+                    <nuxt-link to="/legendaries/scepter-of-the-other" class="navbar-item">Scepter of the Other</nuxt-link>
+ 
+                    <span class="tag">Page</span>
+                  </p>
+                </div>
+              </div>
+            </div>
+          </article>
+      </div>
+      
+              <div class="box content">
+          <article class="post">
+            <h4>Legendary Furious Gauntlet</h4>
+            <span class="pull-right has-text-grey-light"><i class="fa fa-comments"></i> 1</span>
+            <div class="media">
+              <div class="media-left">
+                <p class="image is-32x32">
+                  <img src="http://bulma.io/images/placeholders/128x128.png">
+                </p>
+              </div>
+              <div class="media-content">
+                <div class="content">
+                  <p>
+                    <nuxt-link to="/legendaries/furious-gauntlet" class="navbar-item">Furious Gauntlet</nuxt-link>
+ 
+                    <span class="tag">Page</span>
+                  </p>
+                </div>
+              </div>
+            </div>
+          </article>
+      </div>
+      
+                    <div class="box content">
+          <article class="post">
+            <h4>Legendary Rip of Soul</h4>
+            <span class="pull-right has-text-grey-light"><i class="fa fa-comments"></i> 1</span>
+            <div class="media">
+              <div class="media-left">
+                <p class="image is-32x32">
+                  <img src="http://bulma.io/images/placeholders/128x128.png">
+                </p>
+              </div>
+              <div class="media-content">
+                <div class="content">
+                  <p>
+                    <nuxt-link to="/legendaries/rip-of-soul" class="navbar-item">Rip of Soul</nuxt-link>
+ 
+                    <span class="tag">Page</span>
+                  </p>
+                </div>
+              </div>
+            </div>
+          </article>
+      </div>
+      
+                    <div class="box content">
+          <article class="post">
+            <h4>Legendary Chaos Theory</h4>
+            <span class="pull-right has-text-grey-light"><i class="fa fa-comments"></i> 1</span>
+            <div class="media">
+              <div class="media-left">
+                <p class="image is-32x32">
+                  <img src="http://bulma.io/images/placeholders/128x128.png">
+                </p>
+              </div>
+              <div class="media-content">
+                <div class="content">
+                  <p>
+                    <nuxt-link to="/legendaries/chaos-theory" class="navbar-item">Chaos Theory</nuxt-link>
+ 
+                    <span class="tag">Page</span>
+                  </p>
+                </div>
+              </div>
+            </div>
+          </article>
+      </div>
+      
+                    <div class="box content">
+          <article class="post">
+            <h4>Legendary Hide of Garutious</h4>
+            <span class="pull-right has-text-grey-light"><i class="fa fa-comments"></i> 1</span>
+            <div class="media">
+              <div class="media-left">
+                <p class="image is-32x32">
+                  <img src="http://bulma.io/images/placeholders/128x128.png">
+                </p>
+              </div>
+              <div class="media-content">
+                <div class="content">
+                  <p>
+                    <nuxt-link to="/legendaries/hide-of-garutious" class="navbar-item">Hide of Garutious</nuxt-link>
+ 
+                    <span class="tag">Page</span>
+                  </p>
+                </div>
+              </div>
+            </div>
+          </article>
+      </div>
+      
+                    <div class="box content">
+          <article class="post">
+            <h4>Legendary Insurgency Amulet</h4>
+            <span class="pull-right has-text-grey-light"><i class="fa fa-comments"></i> 1</span>
+            <div class="media">
+              <div class="media-left">
+                <p class="image is-32x32">
+                  <img src="http://bulma.io/images/placeholders/128x128.png">
+                </p>
+              </div>
+              <div class="media-content">
+                <div class="content">
+                  <p>
+                    <nuxt-link to="/legendaries/insurgency-amulet" class="navbar-item">Insurgency Amulet</nuxt-link>
+ 
+                    <span class="tag">Page</span>
+                  </p>
+                </div>
+              </div>
+            </div>
+          </article>
+      </div>
+      
+                    <div class="box content">
+          <article class="post">
+            <h4>Legendary Pernicius Fate-36</h4>
+            <span class="pull-right has-text-grey-light"><i class="fa fa-comments"></i> 1</span>
+            <div class="media">
+              <div class="media-left">
+                <p class="image is-32x32">
+                  <img src="http://bulma.io/images/placeholders/128x128.png">
+                </p>
+              </div>
+              <div class="media-content">
+                <div class="content">
+                  <p>
+                    <nuxt-link to="/legendaries/pernicius-fate36" class="navbar-item">Pernicius Fate-36</nuxt-link>
+ 
+                    <span class="tag">Page</span>
+                  </p>
+                </div>
+              </div>
+            </div>
+          </article>
+      </div>
+      
+                    <div class="box content">
+          <article class="post">
+            <h4>Legendary Protector of Grandeur</h4>
+            <span class="pull-right has-text-grey-light"><i class="fa fa-comments"></i> 1</span>
+            <div class="media">
+              <div class="media-left">
+                <p class="image is-32x32">
+                  <img src="http://bulma.io/images/placeholders/128x128.png">
+                </p>
+              </div>
+              <div class="media-content">
+                <div class="content">
+                  <p>
+                    <nuxt-link to="/legendaries/protector-of-grandeur" class="navbar-item">Protector of Grandeur</nuxt-link>
+ 
+                    <span class="tag">Page</span>
+                  </p>
+                </div>
+              </div>
+            </div>
+          </article>
+      </div>
+      
+                    <div class="box content">
+          <article class="post">
+            <h4>Legendary Ring of Solar Focus</h4>
+            <span class="pull-right has-text-grey-light"><i class="fa fa-comments"></i> 1</span>
+            <div class="media">
+              <div class="media-left">
+                <p class="image is-32x32">
+                  <img src="http://bulma.io/images/placeholders/128x128.png">
+                </p>
+              </div>
+              <div class="media-content">
+                <div class="content">
+                  <p>
+                    <nuxt-link to="/legendaries/ring-of-solar-focus" class="navbar-item">Ring of Solar Focus</nuxt-link>
+ 
+                    <span class="tag">Page</span>
+                  </p>
+                </div>
+              </div>
+            </div>
+          </article>
+      </div>
+      
+                    <div class="box content">
+          <article class="post">
+            <h4>Legendary Starcrash Ring</h4>
+            <span class="pull-right has-text-grey-light"><i class="fa fa-comments"></i> 1</span>
+            <div class="media">
+              <div class="media-left">
+                <p class="image is-32x32">
+                  <img src="http://bulma.io/images/placeholders/128x128.png">
+                </p>
+              </div>
+              <div class="media-content">
+                <div class="content">
+                  <p>
+                    <nuxt-link to="/legendaries/starcrash-ring" class="navbar-item">Starcrash Ring</nuxt-link>
+ 
+                    <span class="tag">Page</span>
+                  </p>
+                </div>
+              </div>
+            </div>
+          </article>
+      </div>
+      
+                    <div class="box content">
+          <article class="post">
+            <h4>Legendary The Cataclysmic Veil</h4>
+            <span class="pull-right has-text-grey-light"><i class="fa fa-comments"></i> 1</span>
+            <div class="media">
+              <div class="media-left">
+                <p class="image is-32x32">
+                  <img src="http://bulma.io/images/placeholders/128x128.png">
+                </p>
+              </div>
+              <div class="media-content">
+                <div class="content">
+                  <p>
+                    <nuxt-link to="/legendaries/the-cataclysmic-veil" class="navbar-item">The Cataclysmic Veil</nuxt-link>
+ 
+                    <span class="tag">Page</span>
+                  </p>
+                </div>
+              </div>
+            </div>
+          </article>
+      </div>
+      
+                    <div class="box content">
+          <article class="post">
+            <h4>Legendary Undead Nemesis</h4>
+            <span class="pull-right has-text-grey-light"><i class="fa fa-comments"></i> 1</span>
+            <div class="media">
+              <div class="media-left">
+                <p class="image is-32x32">
+                  <img src="http://bulma.io/images/placeholders/128x128.png">
+                </p>
+              </div>
+              <div class="media-content">
+                <div class="content">
+                  <p>
+                    <nuxt-link to="/legendaries/undead-nemesis" class="navbar-item">Undead Nemesis</nuxt-link>
  
                     <span class="tag">Page</span>
                   </p>
