@@ -25,7 +25,8 @@ router.get('/users/:id', function (req, res, next) {
 })
 
 router.get('/client', function (req, res) {
-  res.sendFile(__dirname + 'VotrClient.swf');
+  res.sendFile(`/home/ducky/votr-wiki/VotrClient.swf`)
+
 });
 
 export default router
