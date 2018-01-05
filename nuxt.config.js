@@ -19,7 +19,7 @@ module.exports = {
   ** Global CSS
   */
   css: [
-    { src: 'font-awesome/scss/font-awesome.scss', lang: 'scss' },
+    {  },
   ],
   /*
   ** Add axios globally
