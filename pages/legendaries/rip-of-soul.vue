@@ -44,7 +44,7 @@
             <div class="card-content">
              
             <div class="content article-body">
-                <img src="https://i.imgur.com/H0T3sdG.png" class="image is-128x128" alt="undead nemesis">
+                <img src="https://i.imgur.com/H0T3sdG.png" class="image is-128x128" alt="rip of soul">
                 <h3>Stats.</h3>
                 <p>
                     <li>+20 MIGHT</li>
