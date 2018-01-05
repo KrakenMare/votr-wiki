@@ -1,5 +1,5 @@
 import { Router } from 'express'
-
+import { path } from 'path'
 const router = Router()
 
 // Mock Users
@@ -23,5 +23,9 @@ router.get('/users/:id', function (req, res, next) {
     res.sendStatus(404)
   }
 })
+
+router.get('/client', function (req, res) {
+  res.sendFile(__dirname + 'VotrClient.swf');
+});
 
 export default router
