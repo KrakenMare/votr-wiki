@@ -44,7 +44,7 @@
             <div class="card-content">
              
             <div class="content article-body">
-                <img src="https://i.imgur.com/84FkW0D.png" class="image is-128x128" alt="the odyssey">
+                <img src="https://i.imgur.com/SDi9JNi.png" class="image is-128x128" alt="the odyssey">
                 <h3>Stats.</h3>
                 <p>
                     <li>+22 DEFENSE</li>
