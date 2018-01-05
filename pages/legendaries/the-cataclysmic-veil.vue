@@ -58,10 +58,6 @@
                 <p>
                     <li>This cloak is forged with the Shard of Cosmic Collapse</li>
                 </p>
-                <h3>Usage.</h3>
-                <p>
-                    <li>This cloak teleports the player to the cursor, like a planewalker, it has a long cloak time of 8 seconds and gives 2 seconds of damaging providing a helpful DPS boost, however the big MP cost means that when you do use this ability you'll have to use it carefully</li>
-                </p>
               </div>
             </div>
           </div>
