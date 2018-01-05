@@ -44,7 +44,7 @@
             <div class="card-content">
              
             <div class="content article-body">
-                <img src="https://i.imgur.com/s0f33ph.png" class="image is-128x128" alt="undead nemesis">
+                <img src="https://i.imgur.com/s0f33ph.png" class="image is-128x128" alt="ring of solar focus">
                 <h3>Stats.</h3>
                 <p>
                     <li>+120 HP</li>

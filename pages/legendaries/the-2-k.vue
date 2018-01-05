@@ -31,10 +31,10 @@
               <div class="container">
                 <h1 class="title">
                   <i class="fa fa-bell-o"></i> 
-                   Chaos Theory
+                   The 2-K
                 </h1>
                 <h2 class="subtitle">
-                  Control is nothing.
+                  Created from Genisus shards and assembled by the blacksmith that also resided in the Genisus until he was killed by Oryx because of the creation of this powerful weapon.
                 </h2>
               </div>
             </div>
@@ -44,23 +44,20 @@
             <div class="card-content">
              
             <div class="content article-body">
-                <img src="https://i.imgur.com/84FkW0D.png" class="image is-128x128" alt="chaos theory">
+                <img src="https://i.imgur.com/gks299q.png" class="image is-128x128" alt="the 2-k">
                 <h3>Stats.</h3>
                 <p>
-                    <li>Damage: 1200-1400</li>
-                    <li>Range: 16.5</li>
+                    <li>Damage: 200-2000</li>
+                    <li>Range: 10.1</li>
                     <li>Shots hit multiple targets</li>
-                    <li>Shots pass through obstacles</li>
-                    <li>Effect on Self: Damaging and surged for 3.2 seconds.<li>
-                    <li>+4 SPEED</li>
-                    <li>+4 VITALITY</li>
-                    <li>+2 ATTACK</li>
-                    <li>MP Cost: 120</li>
+                    <li>Rate of Fire:-75%</li>
+                    <li>+6 ATTACK</li>
+                    <li>-80 MP</li>
                     <li>Fame Bonus: 8%</li>
                 </p>
                 <h3>How to obtain.</h3>
                 <p>
-                    <li>This shuriken is forged with the Shard of Cosmic Collapse</li>
+                    <li>This staff is forged with the Shard of Cosmic Collapse</li>
                 </p>
               </div>
             </div>

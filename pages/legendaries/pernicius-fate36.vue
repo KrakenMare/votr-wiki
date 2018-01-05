@@ -44,7 +44,7 @@
             <div class="card-content">
              
             <div class="content article-body">
-                <img src="https://i.imgur.com/6U5mh3L.png" class="image is-128x128" alt="undead nemesis">
+                <img src="https://i.imgur.com/6U5mh3L.png" class="image is-128x128" alt="pernicius fate-36">
                 <h3>Stats.</h3>
                 <p>
                     <li>Damage: 650 to 7 targets</li>

@@ -31,10 +31,10 @@
               <div class="container">
                 <h1 class="title">
                   <i class="fa fa-bell-o"></i> 
-                   Gargoyle Slayer
+                   Hand of Zeus
                 </h1>
                 <h2 class="subtitle">
-                  A shuriken that is made for slaying gargoyles but will work just as well with slaying anything else.
+                  A powerful weapon that sends the energy and force of Zeus in the form of a lightning bolt to it's enemies.
                 </h2>
               </div>
             </div>
@@ -44,22 +44,22 @@
             <div class="card-content">
              
             <div class="content article-body">
-                <img src="https://i.imgur.com/GMJBNEd.png" class="image is-128x128" alt="insurgency amulet">
+                <img src="https://i.imgur.com/eEh6JOL.png" class="image is-128x128" alt="hand of zeus">
                 <h3>Stats.</h3>
                 <p>
-                    <li>Damage: 1000-1800</li>
-                    <li>Range: 16.5</li>
-                    <li>Shots pass through obstacles</li>
-                    <li>Ignoes defense of target</li>
-                    <li>Effect on self: Invulnerable for 0.5 seconds<li>
-                    <li>+10 DEFENSE</li>
-                    <li>+6 ATTACK</li>
-                    <li>MP Cost: 110</li>
-                    <li>Fame Bonus: 8%</li>
+                    <li>Damage 96-185</li>
+                    <li>Range: 6.9</li>
+                    <li>Shots hit multiple targets</li>
+                    <li>Ignores defense of target</li>
+                    <li>Rate of Fire: +65%<li>
+                    <li>+30 MIGHT</li>
+                    <li>+30 LUCK</li>
+                    <li>+16 SPEED</li>
+                    <li>Fame Bonus: 6%</li>
                 </p>
                 <h3>How to obtain.</h3>
                 <p>
-                    <li>This shuriken is forged with the Shard of the Stone Soul</li>
+                    <li>This wand is forged with the Shard of Cosmic Collapse.</li>
                 </p>
               </div>
             </div>

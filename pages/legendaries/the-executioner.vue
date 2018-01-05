@@ -31,10 +31,10 @@
               <div class="container">
                 <h1 class="title">
                   <i class="fa fa-bell-o"></i> 
-                   Chaos Theory
+                   The Executioner
                 </h1>
                 <h2 class="subtitle">
-                  Control is nothing.
+                  This is a joke and it's my death, wanderer. Kill me and see how long you live to tell the others.
                 </h2>
               </div>
             </div>
@@ -44,23 +44,21 @@
             <div class="card-content">
              
             <div class="content article-body">
-                <img src="https://i.imgur.com/84FkW0D.png" class="image is-128x128" alt="chaos theory">
+                <img src="https://i.imgur.com/txybSJL.png" class="image is-128x128" alt="the executioner">
                 <h3>Stats.</h3>
                 <p>
-                    <li>Damage: 1200-1400</li>
-                    <li>Range: 16.5</li>
-                    <li>Shots hit multiple targets</li>
-                    <li>Shots pass through obstacles</li>
-                    <li>Effect on Self: Damaging and surged for 3.2 seconds.<li>
-                    <li>+4 SPEED</li>
-                    <li>+4 VITALITY</li>
-                    <li>+2 ATTACK</li>
-                    <li>MP Cost: 120</li>
+                    <li>Shots: 2</li>
+                    <li>Damage: 165-200</li>
+                    <li>Range: 4.8</li>
+                    <li>+10 SPEED</li>
+                    <li>+8 WISDOM<li>
+                    <li>+3 ATTACK</li>
+                    <li>+3 DEXTERITY</li>
                     <li>Fame Bonus: 8%</li>
                 </p>
                 <h3>How to obtain.</h3>
                 <p>
-                    <li>This shuriken is forged with the Shard of Cosmic Collapse</li>
+                    <li>This katana is purchasable from the Zol Shop.</li>
                 </p>
               </div>
             </div>

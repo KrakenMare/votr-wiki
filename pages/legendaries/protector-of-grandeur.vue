@@ -44,7 +44,7 @@
             <div class="card-content">
              
             <div class="content article-body">
-                <img src="https://i.imgur.com/6znDTwk.png" class="image is-128x128" alt="insurgency amulet">
+                <img src="https://i.imgur.com/6znDTwk.png" class="image is-128x128" alt="protector of grandeur">
                 <h3>Stats.</h3>
                 <p>
                     <li>SHOTS: 8</li>

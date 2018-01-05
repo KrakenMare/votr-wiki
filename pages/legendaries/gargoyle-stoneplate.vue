@@ -44,7 +44,7 @@
             <div class="card-content">
              
             <div class="content article-body">
-                <img src="https://i.imgur.com/6fda6NK.png" class="image is-128x128" alt="insurgency amulet">
+                <img src="https://i.imgur.com/6fda6NK.png" class="image is-128x128" alt="gargoyle stoneplate">
                 <h3>Stats.</h3>
                 <p>
                     <li>+220 HP</li>
@@ -59,7 +59,7 @@
                 </p>
                 <h3>Usage.</h3>
                 <p>
-                    <li class="is-center"> Very useful hard hitting armorbroken bullets, stay above 50% HP and you can be a tank for your team!</li>
+                    <li class="is-center"> Very useful against hard hitting armorbroken bullets, stay above 50% HP and you can be a tank for your team!</li>
               </div>
             </div>
           </div>
