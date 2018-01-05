@@ -18,11 +18,9 @@ module.exports = {
   /*
   ** Global CSS
   */
-  css: [
-    {  },
-  ],
+  
   /*
-  ** Add axios globally
+  **  Add axios globally
   */
   build: {
     vendor: ['axios'],
