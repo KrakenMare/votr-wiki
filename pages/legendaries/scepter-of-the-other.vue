@@ -44,7 +44,7 @@
             <div class="card-content">
              
             <div class="content article-body">
-                <img src="https://i.imgur.com/tfnWg8B.png" class="image is-128x128" alt="undead nemesis">
+                <img src="https://i.imgur.com/tfnWg8B.png" class="image is-128x128" alt="scepter of the other">
                 <h3>Stats.</h3>
                 <p>
                     <li>Damage: 1800 to 8 targets</li>
