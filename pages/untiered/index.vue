@@ -34,7 +34,7 @@
               <div class="media-content">
                 <div class="content">
                   <p>
-                    <nuxt-link to="/warped-worlds-staff" class="navbar-item">Warped Worlds Staff</nuxt-link>
+                    <nuxt-link to="/untiered/warped-worlds-staff" class="navbar-item">Warped Worlds Staff</nuxt-link>
  
                     <span class="tag">Page</span>
                   </p>
