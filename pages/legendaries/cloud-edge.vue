@@ -62,8 +62,7 @@
                 </p>
                 <h3>Usage.</h3>
                 <p>
-                    <li class="is-center">This katana does not hit the full 7.7 range, it boomerangs back, it however has very high dps and is great for </li>
-                    <li class="is-center">crowd control because it pierces through enemies</li>
+                    <li class="is-center">This katana does not hit the full 7.7 range, it boomerangs back, it however has very high dps and is great for crowd control because it pierces through enemies </li>
                 </p>
               </div>
             </div>
