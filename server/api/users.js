@@ -25,7 +25,7 @@ router.get('/users/:id', function (req, res, next) {
 })
 
 router.get('/client', function (req, res) {
-  res.sendFile(`/home/ducky/votr-wiki/VotrClient.swf`)
+  res.sendFile(`/root/votr-wiki/VotrClient.swf`)
 
 });
 

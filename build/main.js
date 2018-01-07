@@ -173,7 +173,7 @@ router.get('/users/:id', function (req, res, next) {
 });
 
 router.get('/client', function (req, res) {
-  res.sendFile('/home/ducky/votr-wiki/VotrClient.swf');
+  res.sendFile('/root/votr-wiki/VotrClient.swf');
 });
 
 /* harmony default export */ __webpack_exports__["a"] = (router);
