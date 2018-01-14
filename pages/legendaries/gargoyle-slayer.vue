@@ -50,7 +50,7 @@
                     <li>Damage: 1000-1800</li>
                     <li>Range: 16.5</li>
                     <li>Shots pass through obstacles</li>
-                    <li>Ignoes defense of target</li>
+                    <li>Ignores defense of target</li>
                     <li>Effect on self: Invulnerable for 0.5 seconds<li>
                     <li>+10 DEFENSE</li>
                     <li>+6 ATTACK</li>
